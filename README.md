@@ -1,6 +1,6 @@
 # Arduino Home Alarm
 
-This is a simple solution to home security, using arduino with ON/OFF sensors.
+This is a simple solution to home security, using arduino with ON/OFF switches.
 
 The code is configured to work with 2 sensors, and it has 2 states: ARMED and DISARMED.
 
