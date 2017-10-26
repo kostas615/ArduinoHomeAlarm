@@ -9,8 +9,8 @@ Then a buzzer goes off for 5 seconds, and finally it returns to normal ARMED mod
 
 During DISARMED mode, the arduino reads the sensors and displays any opened (or closed...) switches.
 
-# Configuration
+## Configuration
 All of this configuration can be setup in the first lines of the code.
 
-# Wiring and Installation
+## Wiring and Installation
 Wiring and installation instructions will be included soon.
